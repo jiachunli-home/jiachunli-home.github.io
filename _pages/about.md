@@ -17,42 +17,44 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am currently a PhD student at [Institute of Automation, Chinese Academy of Sciences](http://www.ia.ac.cn/), under the supervision of Prof. [Jun Zhao](https://people.ucas.ac.cn/~zhaojun). My research interest includes natural language processing, particularly in the reasoning analysis, multimodal reasoning, and agentic reasoning of large language models. 
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
+- MMR-Life: Piecing Together Real-life Scenes for Multimodal Multi-image Reasonings, [\[pdf\]](https://openreview.net/pdf?id=ds8bBklDV5) [\[code\]](https://mmr-life-bench.github.io/), **Jiachun Li**, Shaoping Huang, Zhuoran Jin, Chenlong Zhang, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, **ICLR 2026**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- Fixing the Broken Compass: Diagnosing and Improving Inference-Time Reward Modeling, [\[pdf\]](https://openreview.net/pdf?id=hsBBYOqph2) [\[code\]]( https://github.com/BugMakerzzz/CRISP), **Jiachun Li**, Pengfei Cao, Yubo Chen, Jiexin Xu, Huaijun Li, Xiaojian Jiang, Kang Liu, Jun Zhao, **ICLR 2026**
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- Towards better chain-of-thought: A reflection on effectiveness and faithfulness, [\[pdf\]](https://aclanthology.org/2025.findings-acl.560.pdf) [\[code\]](https://github.com/BugMakerzzz/better_cot), **Jiachun Li**, Pengfei Cao, Yubo Chen, Jiexin Xu, Huaijun Li, Xiaojian Jiang, Kang Liu, Jun Zhao, **ACL 2025 Findings**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- MIRAGE: Evaluating and explaining inductive reasoning process in language models, [\[pdf\]](https://openreview.net/pdf?id=tZCqSVncRf) [\[code\]](https://github.com/BugMakerzzz/mirage), ** Jiachun Li**, Pengfei Cao, Zhuoran Jin, Yubo Chen, Kang Liu, Jun Zhao, **ICLR 2025**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- LINKED: Eliciting, Filtering and Integrating Knowledge in Large Language Model for Commonsense Reasoning, [\[pdf\]](https://aclanthology.org/2024.findings-emnlp.519.pdf) [\[code\]](https://github.com/BugMakerzzz/linked_code), Jiachun Li, Pengfei Cao, Chenhao Wang, Zhuoran Jin, Yubo Chen, Kang Liu, Xiaojian Jiang, Jiexin Xu, Jun Zhao, **EMNLP 2024 Findings**
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Focus on your question! interpreting and mitigating toxic cot problems in commonsense reasoning, [\[pdf\]](https://arxiv.org/pdf/2510.23451) [\[code\]](https://github.com/BugMakerzzz/toxic_cot),  **Jiachun Li**, Pengfei Cao, Chenhao Wang, Zhuoran Jin, Yubo Chen, Daojian Zeng, Kang Liu, Jun Zhao, **ACL 2024**
+
+- Omni-Reward: Towards Generalist Omni-Modal Reward Modeling with Free-Form Preferences, [\[pdf\]](https://aclanthology.org/2024.acl-long.499.pdf) [\[code\]](https://github.com/HongbangYuan/OmniReward), Zhuoran Jin, Hongbang Yuan, Kejian Zhu, **Jiachun Li**, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, **ICLR 2026 Oral**
+
+- MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos,  [\[pdf\]](https://arxiv.org/pdf/2506.04141?) [\[code\]](https://mmr-v.github.io/), Kejian Zhu, Zhuoran Jin, Hongbang Yuan, **Jiachun Li**, Shangqing Tu, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, **ICLR 2026**
+
+- A survey of recent advances in commonsense knowledge acquisition: Methods and resources, [\[pdf\]](https://link.springer.com/article/10.1007/s11633-023-1471-3),  Chenhao Wang, **Jiachun Li**, Yubo Chen, Kang Liu, Jun Zhao, **Machine Intelligence Research 2025*
+
+- Rwku: Benchmarking real-world knowledge unlearning for large language models, [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2024/file/b1f78dfc9ca0156498241012aec4efa0-Paper-Datasets_and_Benchmarks_Track.pdf) [\[code\]](https://rwku-bench.github.io/), Zhuoran Jin, Pengfei Cao, Chenhao Wang, Zhitao He, Hongbang Yuan, **Jiachun Li**, Yubo Chen, Kang Liu, Jun Zhao, **NeurIPS 2024*
+
+- Leros: Learning Explicit Reasoning on Synthesized Data for Commonsense Question Answering, [\[pdf\]](https://proceedings.neurips.cc/paper_files/paper/2024/file/b1f78dfc9ca0156498241012aec4efa0-Paper-Datasets_and_Benchmarks_Track.pdf) [\[code\]](https://rwku-bench.github.io/), Zhuoran Jin, Pengfei Cao, Chenhao Wang, Zhitao He, Hongbang Yuan, **Jiachun Li**, Yubo Chen, Kang Liu, Jun Zhao, **NeurIPS 2024*
+
+- Cn-automic: Distilling chinese commonsense knowledge from pretrained language models, [\[pdf\]](https://aclanthology.org/2024.lrec-main.900.pdf) [\[code\]](https://github.com/wchrepo/leros),  Chenhao Wang, Pengfei Cao, **Jiachun Li**, Yubo Chen, Kang Liu, Xiaojian Jiang, Jiexin Xu, Li Qiuxia, Jun Zhao, **LREC-COLING 2024**
+
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022* Outstanding Graduates of Beihang University
+- *2021* Outstanding Student of Beihang University
+- *2020* Outstanding Student of Beihang University
+- *2019* Outstanding Student of Beihang University
+- *2019* **National Scholarship**
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.09 - now*, Institute of Automation, Chinese Academy of Sciences, Pattern Recognition and Intelligent System, Beijing, PhD.
+- *2018.09 - 2022.06*, Beihang University, Computer Science and Technology, SHENYUAN Honors College., Bachelor.
