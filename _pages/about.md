@@ -28,9 +28,9 @@ I am currently a PhD student at [Institute of Automation, Chinese Academy of Sci
 
 - Towards better chain-of-thought: A reflection on effectiveness and faithfulness, [\[pdf\]](https://aclanthology.org/2025.findings-acl.560.pdf) [\[code\]](https://github.com/BugMakerzzz/better_cot), **Jiachun Li**, Pengfei Cao, Yubo Chen, Jiexin Xu, Huaijun Li, Xiaojian Jiang, Kang Liu, Jun Zhao, **ACL 2025 Findings**
 
-- MIRAGE: Evaluating and explaining inductive reasoning process in language models, [\[pdf\]](https://openreview.net/pdf?id=tZCqSVncRf) [\[code\]](https://github.com/BugMakerzzz/mirage), ** Jiachun Li**, Pengfei Cao, Zhuoran Jin, Yubo Chen, Kang Liu, Jun Zhao, **ICLR 2025**
+- MIRAGE: Evaluating and explaining inductive reasoning process in language models, [\[pdf\]](https://openreview.net/pdf?id=tZCqSVncRf) [\[code\]](https://github.com/BugMakerzzz/mirage), **Jiachun Li**, Pengfei Cao, Zhuoran Jin, Yubo Chen, Kang Liu, Jun Zhao, **ICLR 2025**
 
-- LINKED: Eliciting, Filtering and Integrating Knowledge in Large Language Model for Commonsense Reasoning, [\[pdf\]](https://aclanthology.org/2024.findings-emnlp.519.pdf) [\[code\]](https://github.com/BugMakerzzz/linked_code), Jiachun Li, Pengfei Cao, Chenhao Wang, Zhuoran Jin, Yubo Chen, Kang Liu, Xiaojian Jiang, Jiexin Xu, Jun Zhao, **EMNLP 2024 Findings**
+- LINKED: Eliciting, Filtering and Integrating Knowledge in Large Language Model for Commonsense Reasoning, [\[pdf\]](https://aclanthology.org/2024.findings-emnlp.519.pdf) [\[code\]](https://github.com/BugMakerzzz/linked_code), **Jiachun Li**, Pengfei Cao, Chenhao Wang, Zhuoran Jin, Yubo Chen, Kang Liu, Xiaojian Jiang, Jiexin Xu, Jun Zhao, **EMNLP 2024 Findings**
 
 - Focus on your question! interpreting and mitigating toxic cot problems in commonsense reasoning, [\[pdf\]](https://arxiv.org/pdf/2510.23451) [\[code\]](https://github.com/BugMakerzzz/toxic_cot),  **Jiachun Li**, Pengfei Cao, Chenhao Wang, Zhuoran Jin, Yubo Chen, Daojian Zeng, Kang Liu, Jun Zhao, **ACL 2024**
 
@@ -57,4 +57,4 @@ I am currently a PhD student at [Institute of Automation, Chinese Academy of Sci
 
 # 📖 Educations
 - *2022.09 - now*, Institute of Automation, Chinese Academy of Sciences, Pattern Recognition and Intelligent System, Beijing, PhD.
-- *2018.09 - 2022.06*, Beihang University, Computer Science and Technology, SHENYUAN Honors College., Bachelor.
+- *2018.09 - 2022.06*, Beihang University, Computer Science and Technology, SHENYUAN Honors College, Bachelor.
