@@ -24,7 +24,7 @@ I am currently a PhD student at [Institute of Automation, Chinese Academy of Sci
 
 # 📝 Publications 
 
-- MMR-Life: Piecing Together Real-life Scenes for Multimodal Multi-image Reasonings, [\[pdf\]](https://openreview.net/pdf?id=ds8bBklDV5) [\[code\]](https://mmr-life-bench.github.io/), ***Jiachun Li***, Shaoping Huang, Zhuoran Jin, Chenlong Zhang, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, **ICLR 2026**
+- MMR-Life: Piecing Together Real-life Scenes for Multimodal Multi-image Reasoning, [\[pdf\]](https://openreview.net/pdf?id=ds8bBklDV5) [\[code\]](https://mmr-life-bench.github.io/), ***Jiachun Li***, Shaoping Huang, Zhuoran Jin, Chenlong Zhang, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, **ICLR 2026**
 
 - Fixing the Broken Compass: Diagnosing and Improving Inference-Time Reward Modeling, [\[pdf\]](https://openreview.net/pdf?id=hsBBYOqph2) [\[code\]]( https://github.com/BugMakerzzz/CRISP), ***Jiachun Li***, Pengfei Cao, Yubo Chen, Jiexin Xu, Huaijun Li, Xiaojian Jiang, Kang Liu, Jun Zhao, **ICLR 2026**
 
@@ -34,9 +34,9 @@ I am currently a PhD student at [Institute of Automation, Chinese Academy of Sci
 
 - LINKED: Eliciting, Filtering and Integrating Knowledge in Large Language Model for Commonsense Reasoning, [\[pdf\]](https://aclanthology.org/2024.findings-emnlp.519.pdf) [\[code\]](https://github.com/BugMakerzzz/linked_code), ***Jiachun Li***, Pengfei Cao, Chenhao Wang, Zhuoran Jin, Yubo Chen, Kang Liu, Xiaojian Jiang, Jiexin Xu, Jun Zhao, **EMNLP 2024 Findings**
 
-- Focus on your question! interpreting and mitigating toxic cot problems in commonsense reasoning, [\[pdf\]](https://arxiv.org/pdf/2510.23451) [\[code\]](https://github.com/BugMakerzzz/toxic_cot), ***Jiachun Li***, Pengfei Cao, Chenhao Wang, Zhuoran Jin, Yubo Chen, Daojian Zeng, Kang Liu, Jun Zhao, **ACL 2024**
+- Focus on your question! interpreting and mitigating toxic cot problems in commonsense reasoning, [\[pdf\]](https://aclanthology.org/2024.acl-long.499.pdf) [\[code\]](https://github.com/BugMakerzzz/toxic_cot), ***Jiachun Li***, Pengfei Cao, Chenhao Wang, Zhuoran Jin, Yubo Chen, Daojian Zeng, Kang Liu, Jun Zhao, **ACL 2024**
 
-- Omni-Reward: Towards Generalist Omni-Modal Reward Modeling with Free-Form Preferences, [\[pdf\]](https://aclanthology.org/2024.acl-long.499.pdf) [\[code\]](https://github.com/HongbangYuan/OmniReward), Zhuoran Jin, Hongbang Yuan, Kejian Zhu, ***Jiachun Li***, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, **ICLR 2026 Oral**
+- Omni-Reward: Towards Generalist Omni-Modal Reward Modeling with Free-Form Preferences, [\[pdf\]](https://arxiv.org/pdf/2510.23451) [\[code\]](https://github.com/HongbangYuan/OmniReward), Zhuoran Jin, Hongbang Yuan, Kejian Zhu, ***Jiachun Li***, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, **ICLR 2026 Oral**
 
 - MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos,  [\[pdf\]](https://arxiv.org/pdf/2506.04141?) [\[code\]](https://mmr-v.github.io/), Kejian Zhu, Zhuoran Jin, Hongbang Yuan, ***Jiachun Li***, Shangqing Tu, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao, **ICLR 2026**
 
